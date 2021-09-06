@@ -8,6 +8,9 @@ public class ACT2 extends AppCompatActivity {
  //testing vomment
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
+        int z=0;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_act2);
     }
